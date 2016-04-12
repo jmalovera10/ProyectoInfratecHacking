@@ -1,0 +1,6 @@
+﻿  main.c
+c:\users\jdguz\onedrive\u\6 semestre\infratec\proyecto\2016-1 isis1304 - proyecto 1\main.c(105): warning C4018: '<': signed/unsigned mismatch
+c:\users\jdguz\onedrive\u\6 semestre\infratec\proyecto\2016-1 isis1304 - proyecto 1\main.c(102): warning C4133: 'initializing': incompatible types - from 'unsigned char *' to 'short *'
+c:\users\jdguz\onedrive\u\6 semestre\infratec\proyecto\2016-1 isis1304 - proyecto 1\main.c(103): warning C4133: 'initializing': incompatible types - from 'unsigned char *' to 'short *'
+  ProyectoFinalInfratec1.vcxproj -> C:\Users\jdguz\Documents\Visual Studio 2015\Projects\ProyectoFinalInfratec1\Debug\ProyectoFinalInfratec1.exe
+  ProyectoFinalInfratec1.vcxproj -> C:\Users\jdguz\Documents\Visual Studio 2015\Projects\ProyectoFinalInfratec1\Debug\ProyectoFinalInfratec1.pdb (Partial PDB)
